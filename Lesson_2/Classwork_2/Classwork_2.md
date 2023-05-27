@@ -26,6 +26,8 @@
 
 #### Слияния веток
 
-`git checkout -b new-branch`
-`git checkout main`
+`git checkout -b new-branch` - создаём новую ветку, вносим изменения
+`git checkout main` - переключаемся на ветку main
+`git merge new-branch` - выполняем слияние веток (из new-branch в main)
+`git reset --merge "commit"` - отмена слияния
 `

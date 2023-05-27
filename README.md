@@ -1,2 +1,3 @@
 # git_advance
-hello from remote server
+
+https://git-scm.com/book/ru/v2/

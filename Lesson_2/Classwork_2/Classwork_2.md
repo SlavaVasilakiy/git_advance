@@ -26,6 +26,6 @@
 
 #### Слияния веток
 
-
-
-
+`git checkout -b new-branch`
+`git checkout main`
+`
